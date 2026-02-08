@@ -9,7 +9,7 @@ Telecommunications customer data including tenure, contract type, payment method
 ## Tools Used
 - SQL Server – data cleaning, churn metrics, segmentation
 - Power BI – KPI reporting and executive dashboard
--Excel – intermediate KPI outputs
+- Excel – intermediate KPI outputs
 
 ## Key KPIs
 | Metric | Value |
