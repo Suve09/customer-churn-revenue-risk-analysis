@@ -7,15 +7,17 @@ Identify customer churn drivers and quantify revenue at risk to support data-dri
 Telecommunications customer data including tenure, contract type, payment method, charges, and churn status.
 
 ## Tools Used
-- SQL Server – data cleaning, churn metrics, segmentation
-- Power BI – KPI reporting and executive dashboard
-- Excel – intermediate KPI outputs
+**SQL Server** – data cleaning, churn metrics, segmentation
+**Power BI** – KPI reporting and executive dashboard
+**Excel** – intermediate KPI outputs
 
 ## Key KPIs
-- Churn Rate: ~26.5%
-- Retention Rate: ~73.5%
-- ARPU: ~$64.8
-- Monthly Revenue at Risk: ~$139K
+| Metric | Value |
+|--------|-------|
+|Churn Rate|~26.5% |
+|Retention Rate | ~73.5%|
+|ARPU |~$64.8 |
+|Monthly Revenue at Risk | ~$139K|
 
 ## Key Insights
 - Month-to-month and early-tenure customers exhibit the highest churn.
