@@ -7,9 +7,9 @@ Identify customer churn drivers and quantify revenue at risk to support data-dri
 Telecommunications customer data including tenure, contract type, payment method, charges, and churn status.
 
 ## Tools Used
-**SQL Server** – data cleaning, churn metrics, segmentation
-**Power BI** – KPI reporting and executive dashboard
-**Excel** – intermediate KPI outputs
+- SQL Server – data cleaning, churn metrics, segmentation
+- Power BI – KPI reporting and executive dashboard
+-Excel – intermediate KPI outputs
 
 ## Key KPIs
 | Metric | Value |
